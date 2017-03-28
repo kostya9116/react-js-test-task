@@ -1,0 +1,57 @@
+.headerContainer {
+    background-image: url('../../../assets/img/headerBackground.jpg');
+    height: 130px;
+}
+.headerContentContainer::before,
+.headerContentContainer::after{
+    content: none;
+}
+.headerContentContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.headerLogoContainer {
+    background: transparent !important;
+    width: fit-content;
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+
+.headerLogoFirstHalf {
+    color: #FFFFFF;
+    width: fit-content;
+    margin: 0;
+    font-size: 50px;
+    line-height: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: Rubik;
+}
+
+.headerLogoSecondHalf {
+    color: #F8C38B;
+    width: fit-content;
+    margin: 0;
+    font-size: 35px;
+    line-height: 35px;
+    text-transform: uppercase;
+    font-family: Rubik;
+}
+
+.addButtonContainer {
+    float: right;
+    display: flex;
+    max-height: 35px;
+    align-self: center;
+}
+.addButtonContainer > button {
+    background-color: white !important;
+    color: #191919 !important;
+    font-family: Rubik;
+}
+.addButtonContainer > button:hover{
+    background-color: #F8C38B !important;;
+}

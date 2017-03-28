@@ -1,0 +1,27 @@
+.modal-header {
+    background-color: #D0B290;
+    color: #222222;
+}
+
+.modal-body {
+    display: inline-block;
+}
+
+div.ui.large.left.labeled.input {
+    margin-top: 10px;
+}
+
+.ui.label.label {
+    min-width: 135px;
+}
+
+.descriptionTextArea {
+    margin-top: 10px;
+}
+
+.errorMessage {
+    color: red !important;
+    font-family: Rubik !important;
+    font-weight: bold !important;
+    text-align: center !important;
+}

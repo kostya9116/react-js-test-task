@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "Name": "Inferno",
+    "Author": "Dan Brown",
+    "Image": "img/defaultBooks/inferno.jpg",
+    "Published": "2013",
+    "Price": "$60",
+    "Description": "Inferno is a 2013 mystery thriller novel by American author Dan Brown and the fourth book in his Robert Langdon series, following Angels & Demons, The Da Vinci Code and The Lost Symbol. The book was released on May 14, 2013 by Doubleday."
+  },
+  {
+    "id": 2,
+    "Name": "The Da Vinci Code",
+    "Author": "Dan Brown",
+    "Image": "img/defaultBooks/daVinchiCode.jpg",
+    "Published": "2003",
+    "Price": "$50",
+    "Description": "The Da Vinci Code is a 2003 mystery-detective novel by Dan Brown. It follows symbologist Robert Langdon and cryptologist Sophie Neveu after a murder in the Louvre Museum in Paris, when they become involved in a battle between the Priory of Sion and Opus Dei over the possibility of Jesus Christ having been a companion to Mary Magdalene."
+  },
+  {
+    "id": 3,
+    "Name": "Angels & Demons",
+    "Author": "Dan Brown",
+    "Image": "img/defaultBooks/angelsAndDemons.jpg",
+    "Published": "2000",
+    "Price": "$41",
+    "Description": "Angels & Demons is a 2000 bestselling mystery-thriller novel written by American author Dan Brown and published by Pocket Books and then by Corgi Books. The novel introduces the character Robert Langdon, who is also the protagonist of Brown's subsequent novels - The Da Vinci Code, The Lost Symbol, Inferno, and Origin. Angels & Demons shares many stylistic literary elements with its sequel, such as conspiracies of secret societies, a single-day time frame, and the Catholic Church."
+  },
+  {
+    "id": 4,
+    "Name": "The Lost Symbol",
+    "Author": "Dan Brown",
+    "Image": "img/defaultBooks/theLostSymbol.jpg",
+    "Published": "2009",
+    "Price": "$39",
+    "Description": "The Lost Symbol is a 2009 novel written by American writer Dan Brown.It is a thriller set in Washington, D.C., after the events of The Da Vinci Code, and relies on Freemasonry for both its recurring theme and its major characters."
+  },
+  {
+    "id": 5,
+    "Name": "Deception Point",
+    "Author": "Dan Brown",
+    "Image": "img/defaultBooks/deseptionPoint.jpg",
+    "Published": "2001",
+    "Price": "$42",
+    "Description": "Deception Point is a 2001 techno-thriller novel by Dan Brown. The plot concerns a meteorite found within the Arctic Circle that may provide proof of extraterrestrial life, and attempts by the antagonists to prevent the evidence against it from becoming public."
+  },
+  {
+    "id": 6,
+    "Name": "When Breath Becomes Air",
+    "Author": "Paul Kalanithi",
+    "Image": "img/defaultBooks/whenBreathBecomesAir.jpg",
+    "Published": "2016",
+    "Price": "$45",
+    "Description": "When Breath Becomes Air is a non-fiction autobiographical book written by Paul Kalanithi. It is a memoir about his life and illness, battling stage IV metastatic lung cancer. It was posthumously published by Random House on January 12, 2016."
+  },
+  {
+    "id": 7,
+    "Name": "What Belongs to You",
+    "Author": "Garth Greenwell",
+    "Image": "img/defaultBooks/whatBelongsToYou.jpg",
+    "Published": "2016",
+    "Price": "$40",
+    "Description": "The first great novel of 2016 Publishers WeeklyOn an unseasonably warm autumn day, an American teacher walks down a staircase beneath Sofia's National Palace of Culture, looking for sex. Among the stalls of a public bathroom he encounters Mitko, a charismatic young hustler. He returns to Mitko again and again over the next few months, and their trysts grow increasingly intimate and unnerving as the enigma of this young man becomes inseparable from that of his homeland, Bulgaria, a country with a difficult past and an uncertain future.Garth Greenwell's What Belongs to You is a stunning debut about an American expat struggling with his own complicated inheritance while navigating a foreign culture. Lyrical and intense, it tells the story of a man caught between longing and resentment, unable to separate desire from danger, and faced with the impossibility of understanding those he most longs to know."
+  },
+  {
+    "id": 8,
+    "Name": "LaRose",
+    "Author": "Louise Erdrich",
+    "Image": "img/defaultBooks/laRose.jpg",
+    "Published": "2016",
+    "Price": "$38",
+    "Description": "LaRose is a novel by the author Louise Erdrich. It was published in 2016 by HarperCollins Publishers."
+  },
+  {
+    "id": 9,
+    "Name": "The Girl on the Train",
+    "Author": "Paula Hawkins",
+    "Image": "img/defaultBooks/theGirlOnTheTrain.jpg",
+    "Published": "2015",
+    "Price": "$35",
+    "Description": "The Girl on the Train (2015) is a psychological thriller novel by British author Paula Hawkins. The novel debuted at No. 1 on The New York Times Fiction Best Sellers of 2015 list (combined print and e-book) dated February 1, 2015, and remained in the top position for 13 consecutive weeks, until April 2015.[3] In January 2016 it became the No.1 bestseller again for two weeks. Many reviews referred to the book as 'the next Gone Girl', referring to a popular 2012 psychological mystery with similar themes and use of unreliable narrators."
+  },
+   {
+    "id": 10,
+    "Name": "The Reader",
+    "Author": "Bernhard Schlink",
+    "Image": "img/defaultBooks/theReader.jpg",
+    "Published": "1995",
+     "Price": "$30",
+    "Description": "The Reader is a novel by German law professor and judge Bernhard Schlink, published in Germany in 1995 and in the United States in 1997."
+  }
+
+]

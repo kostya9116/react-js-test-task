@@ -1,0 +1,35 @@
+.productPageContainer {
+    background-image: url('../../../assets/img/pageBackground.jpg');
+    flex: 1;
+}
+
+.contentContainer {
+    width: 80%;
+    margin: 0 auto !important;
+}
+
+.productImage {
+    min-width: 205px;
+}
+
+.productHeader {
+    font-size: 35px !important;
+    font-family: Rubik !important;
+    font-weight: bold !important;
+}
+.labelStyle {
+    display: inline-block;
+    font-family: Rubik;
+    font-weight: bold;
+    font-size: 16px;
+}
+.infoStyle{
+    display: inline-block;
+    margin-left: 10px;
+    font-family: Rubik;
+    font-size: 16px;
+}
+.descriptionStyle{
+    font-family: Rubik;
+    font-size: 16px;
+}

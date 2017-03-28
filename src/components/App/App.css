@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Rubik';
+    src: url("../../assets/fonts/Rubik/OpenSans-Regular.ttf");
+    src: url("../../assets/fonts/Rubik/OpenSans.eot");
+    src: url("../../assets/fonts/Rubik/OpenSans.woff");
+}
+@font-face {
+    font-family: 'Rubik';
+    src: url("../../assets/fonts/Rubik/OpenSans-Italic.ttf");
+    src: url("../../assets/fonts/Rubik/OpenSans-Italic.eot");
+    src: url("../../assets/fonts/Rubik/OpenSans-Italic.woff");
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Rubik';
+    src: url("../../assets/fonts/Rubik/OpenSans-Bold.ttf");
+    src: url("../../assets/fonts/Rubik/OpenSans-Bold.eot");
+    src: url("../../assets/fonts/Rubik/OpenSans-Bold.woff");
+    font-weight: bold;
+}
+
+#root{
+    min-height: 100%;
+    display: flex;
+}
+
+body {
+    margin: 0;
+}
+
+.ui.grid {
+    margin: 0 !important;
+}
+.pageContainer{
+    padding: 0;
+    min-height: 100%;
+    display: flex;
+    flex: 1;
+}
